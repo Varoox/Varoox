@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Varoox
 - 👀 I’m interested in Car Technology, ESP32("smart home stuff"), Web Projects like Game/Voice Servers with bots etc. 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Java
 - 📫 How to reach me armin@honig.life
